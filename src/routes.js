@@ -1,4 +1,8 @@
-const { addBookHandler, getAllBooksHandler, getBookByIdHandler, editBookByIdHandler, deleteBookByIdHandler } = require('./handler');
+const addBookHandler = require('./handler/addBookHandler');
+const getAllBooksHandler = require('./handler/getAllBooksHandler');
+const getBookByIdHandler = require('./handler/getBookByIdHandler');
+const editBookByIdHandler = require('./handler/editBookByIdHandler');
+const deleteBookByIdHandler = require('./handler/deleteBookByIdHandler');
 
 const routes = [
   {

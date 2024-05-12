@@ -1,5 +1,7 @@
 # Dicoding Submission Bookshelf API
 
+nama peserta: Rizqi Nur Assyaufi
+
 ## Node
 
 - lts/iron (v20.13.1)
